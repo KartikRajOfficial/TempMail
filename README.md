@@ -4,6 +4,11 @@
 
 [![Kartik](https://graph.org/file/b35b395452b11f75e1b22.jpg)]
 
+
+# Usage
+
+Just Simply Open [site](https://tempmailbykartikrajofficial.42web.io/) copy mail paste at your destination OTP will be sended 
+on same page simply put otp and enjoy unlimited accounts, trials ,etc
 # Developers
 Main Dev: Kartik RAj Official
 
