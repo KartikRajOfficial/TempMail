@@ -1,2 +1,8 @@
-# TempMail
-A Site and bot which gives you unlimited emails for free by using this you can recieve otp and do verification
+#𝗧𝗲𝗺𝗽𝗠𝗮𝗶𝗹
+𝗔 𝗦𝗶𝘁𝗲 𝗮𝗻𝗱 𝗯𝗼𝘁 𝘄𝗵𝗶𝗰𝗵 𝗴𝗶𝘃𝗲𝘀 𝘆𝗼𝘂 𝘂𝗻𝗹𝗶𝗺𝗶𝘁𝗲𝗱 𝗲𝗺𝗮𝗶𝗹𝘀 𝗳𝗼𝗿 𝗳𝗿𝗲𝗲 𝗯𝘆 𝘂𝘀𝗶𝗻𝗴 𝘁𝗵𝗶𝘀 𝘆𝗼𝘂 𝗰𝗮𝗻 𝗿𝗲𝗰𝗶𝗲𝘃𝗲 𝗼𝘁𝗽 𝗮𝗻𝗱 𝗱𝗼 𝘃𝗲𝗿𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻
+
+[![Kartik](https://graph.org/file/b35b395452b11f75e1b22.jpg)]
+
+# Developers
+Main Dev: Kartik RAj Official
+
