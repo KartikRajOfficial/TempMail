@@ -17,5 +17,7 @@ https://tempmailbykartikrajofficial.42web.io/
 
 # Developers
 Main Dev: Kartik RAJ Official
-          httpa://kartikrajofficial.github.io
+
+          https://kartikrajofficial.github.io
+
 
