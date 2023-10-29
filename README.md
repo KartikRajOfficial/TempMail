@@ -9,6 +9,13 @@
 
 Just Simply Open [site](https://tempmailbykartikrajofficial.42web.io/) copy mail paste at your destination OTP will be sended 
 on same page simply put otp and enjoy unlimited accounts, trials ,etc
+
+# Site
+
+https://tempmailbykartikrajofficial.42web.io/
+
+
 # Developers
-Main Dev: Kartik RAj Official
+Main Dev: Kartik RAJ Official
+          httpa://kartikrajofficial.github.io
 
